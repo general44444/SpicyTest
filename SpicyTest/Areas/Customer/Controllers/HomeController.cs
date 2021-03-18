@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace SpicyTest.Controllers
 {
+
     [Area("Customer")]
     public class HomeController : Controller
     {
